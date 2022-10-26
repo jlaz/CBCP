@@ -1,7 +1,6 @@
 # Credit-Based Congestion Pricing: Equilibrium Properties and Optimal Scheme Design
 
-This repository contains the code used to conduct the numerical experiments in the paper ["Credit-Based Congestion Pricing: Equilibrium Properties and Optimal Scheme Design"](https://arxiv.org/...) submitted for presentation at the ["22nd International Conference
-on Autonomous Agents and Multiagent Systems (AAMAS 2023)"](https://aamas2023.soton.ac.uk).
+This repository contains the code used to conduct the numerical experiments in the paper "Credit-Based Congestion Pricing: Equilibrium Properties and Optimal Scheme Design."
 
 Credit-based congestion pricing (CBCP) address the equity challenges of congestion pricing strategies by allocating a budget of free credits to a group of eligible users to use to pay the tolls on a priced facility (e.g., an express lane on a highway, a cordoned portion of a road network). The numerical experiments were conducted to investigate the influence of CBCP schemes on the traffic patterns and study their optimal design through a case study of the San Mateo 101 Express Lanes Project. The equilibrium distribution of traffic flow on a four-lane highway with a single tolled express lane is estimated by solving the convex program presented in the paper. 
 
