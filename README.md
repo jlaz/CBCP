@@ -13,5 +13,3 @@ This code depends on maplotlib for visualization and gurobipy for optimization.
 
 ### Dataset
 * VOT_distr.csv : the probability density function of VoT in San Mateo and Santa Clara counties estimated from the US Census 2021 American Community Survey (ACS) 1-Year Annual Earnings Esimates
-
-### Citation
